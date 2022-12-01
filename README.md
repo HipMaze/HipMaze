@@ -1,12 +1,36 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm HipMaze</h1>
 <h4 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Competitive+Programmer;MCPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a></h4>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;ML+Enthousiast;Competitive+Programmer;IOT+Aficianado;MCPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a></h4>
 </div>
 
 
 -----
-  <h2>☎️ contact me</h2>
+
+
+  <h2>🧮 About Me</h2>
+<div>
+I am a third year Engineering student at <a href="https://www.ensa.ac.ma">ENSA Marrakech</a>. Apart from that I am a software enthousiast who likes to tinker with with different concepts and techs and to share them with the world.
+
+**My Interests**:
+- BlockChain
+- Classification
+- Clustering
+- Anomaly Detection
+- Similarity Measure
+
+ **I am open to**:
+
+- any collobration work,
+- software developement project,
+- machine learning projects(that could be fun),
+- Iot / Robotics projects (im not that good but I'm super passionate about it 😋).
+
+**Random bits about me**:
+- ...
+</div>
+
+  <h2>☎️ Contact Me</h2>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -25,37 +49,29 @@
   </samp>
 </div>
 
-  <h2>🧮 about</h2>
-<div>
-I am a third year Engineering student at [ENSA Marrakech](https://www.ensa.ac.ma/). Apart from that I am a software enthousiast who likes to tinker with with different concepts and techs and to share them with the world.
+<h2>🛠️ Skills</h2>
 
-**My Interests**:
-- BlockChain
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+#### Languages and Frameworks:
 
- **I am open to**:
-
-- any collobration work,
-- software developement project,
-- machine learning projects(that could be fun),
-- 
-
-**Random bits about me**:
-- ...
-</div>
-
-<h2>Skills</h2>
-
-#### Languages:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+#### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
 
 #### ML/DL
 
@@ -66,23 +82,19 @@ I am a third year Engineering student at [ENSA Marrakech](https://www.ensa.ac.ma
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-#### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp; -->
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+
 
 #### IDEs
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
@@ -107,7 +119,7 @@ I am a third year Engineering student at [ENSA Marrakech](https://www.ensa.ac.ma
         </p>
 
    
-  <h3>stasistic</h3>
+  <h3>Stasistic</h3>
         <p align="center">
           <a href="https://github.com/HipMaze/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=HipMaze&count_private=true&show_icons=true&theme=radical&hide_border=true" />
@@ -134,7 +146,7 @@ I am a third year Engineering student at [ENSA Marrakech](https://www.ensa.ac.ma
 
 
 -----
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
+Credits: [HipMaze](https://github.com/HipMaze)
 Last Edited on: 01/12/2022
 
 <!---

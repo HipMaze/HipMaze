@@ -136,8 +136,8 @@ I am a third year Engineering student at <a href="https://www.ensa.ac.ma">ENSA M
   <samp>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="HipMaze's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=HipMaze&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HipMaze&custom_title=HipMaze's%20Activity%20Graph&&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
   </samp>
   
@@ -147,7 +147,7 @@ I am a third year Engineering student at <a href="https://www.ensa.ac.ma">ENSA M
 
 -----
 Credits: [HipMaze](https://github.com/HipMaze)
-Last Edited on: 02/12/2022
+Last Edited on: 13/12/2022
 
 <!---
 HipMaze/HipMaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

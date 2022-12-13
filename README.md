@@ -99,17 +99,16 @@ I am a third year Engineering student at <a href="https://www.ensa.ac.ma">ENSA M
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
   <h2>💻 GitHub Profile Stats</h2>
+   <h2 align="center"> Github stats </h2>
+   
+#### Languages
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HipMaze&count_private=true&langs_count=6&theme=radical&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+       
+       
   <div>
   <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-  <h3>Languages</h3>
-            <p align="center">
-        <a href="https://github.com/HipMaze/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HipMaze&count_private=true&langs_count=6&theme=radical&layout=compact&hide_border=true"
-          alt="HipMaze :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
+       <p align="center">
           <a href="https://github.com/HipMaze/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HipMaze&count_private=true&theme=radical&layout=compact&hide_border=true"
           alt="HipMaze :: Top Langs by repo" />

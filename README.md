@@ -10,7 +10,7 @@
 
   <h2>🧮 About Me</h2>
 <div>
-I am a third year Engineering student at <a href="https://www.ensa.ac.ma">ENSA Marrakech</a>. Apart from that I am a software enthousiast who likes to tinker with with different concepts and techs and to share them with the world.
+I am a software enthousiast who likes to tinker with with different concepts and techs and to share them with the world.
 
 **My Interests**:
 - BlockChain

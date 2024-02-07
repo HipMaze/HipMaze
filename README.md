@@ -36,13 +36,13 @@ I am a software enthousiast who likes to tinker with with different concepts and
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/aymanelazm/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="HipMaze" height="30"/></a>
-      <a href="mailto:ayman.elazm.dev@gmail.com" target="blank"><img align="center"
+      <a href="mailto:" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="HipMaze" height="30"/></a>
-            <a href="https://wa.me/+212694961859" target="blank"><img align="center"
+            <a href="https://wa.me/" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="HipMaze" height="30"/></a>
     </p>

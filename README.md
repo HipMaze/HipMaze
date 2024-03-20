@@ -97,7 +97,7 @@ I am a software enthousiast who likes to tinker with with different concepts and
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
-
+<!---
   <h2>💻 GitHub Profile Stats</h2>
    <h2 align="center"> Github stats </h2>
    
@@ -142,7 +142,7 @@ I am a software enthousiast who likes to tinker with with different concepts and
   
 
 <br/>
-
+--->
 
 -----
 Credits: [HipMaze](https://github.com/HipMaze)
